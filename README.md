@@ -1,6 +1,5 @@
 # SAGED-Net: Structural Adaptive Gated Encoder-Decoder Network
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Framework](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c)
 ![Task](https://img.shields.io/badge/Task-Nuclei%20Segmentation-green)
 

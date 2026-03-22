@@ -4,13 +4,14 @@
 ![Framework](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c)
 ![Task](https://img.shields.io/badge/Task-Nuclei%20Segmentation-green)
 
-> **A lightweight, parameter-efficient framework for robust nuclei segmentation in histopathology images.**
+## Authors
+Arjeesh Palai, Arko Dasgupta, Ram Sarkar, Dimitrii Kaplun, Alexander Voznesensky
 
----
+ACCEPTED AT IJCNN 2026 (WCCI), Maastricht, Netherland
 
 ## Overview
 
-**SAGED-Net** is a deep learning framework designed to address the challenges of nuclei segmentation in digital pathology, such as overlapping boundaries, noise sensitivity, and high computational costs.
+**SAGED-Net** is a lightweight, deep learning framework designed to address the challenges of robust nuclei segmentation in digital pathology, such as overlapping boundaries, noise sensitivity, and high computational costs.
 
 Unlike standard U-Net architectures that rely on rigid skip connections, SAGED-Net introduces a **Learnable Adaptive Gating mechanism** to actively suppress background artifacts and selective feature fusion. Coupled with a novel **Tri-Domain Fidelity (TDF) Loss**, it enforces anatomical accuracy across spatial, spectral, and morphological domains.
 

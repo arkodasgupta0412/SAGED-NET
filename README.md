@@ -7,7 +7,7 @@
 ## Authors
 Arjeesh Palai, Arko Dasgupta, Ram Sarkar, Dimitrii Kaplun, Alexander Voznesensky
 
-**accepted at IJCNN 2026 (WCCI), Maastricht, Netherland**
+**Accepted at IJCNN 2026 (WCCI), Maastricht, Netherlands.**
 
 ## Overview
 
